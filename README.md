@@ -67,6 +67,11 @@ As was shown earlier, picoarch did support the Final Burn Alpha (fbalpha) libret
 It is a bit weird, because you probably keep reading that fbalpha is supposed to give better performance on low spec devices like the miyoo mini. So, just like me, you may have never given fbneo much thought.
 
 Wait wait wait... what about MAME? There are libretro cores for that, why not use MAME instead? True. And they do work with minarch. But they don't perform as well as fbneo.
+So yeah, fbneo works very well, but there's one major issue:
+
+> [!WARNING]
+> Final Burn Neo doesn't manage screen rotation. MinUI doesn't either. Vertical games (battlantis e.g.) will be displayed the wrong way.
+> If you want to play vertical games in MinUI without rotating your device, you will need to use a core that can handle screen rotation, [mame_xtreme](https://github.com/KMFDManic/mame2003-xtreme) for example. But remember to use MAME compatible roms then!
 
 ### How?
 
