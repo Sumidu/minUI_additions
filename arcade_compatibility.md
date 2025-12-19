@@ -1,6 +1,7 @@
 # Compatibility of arcade Roms for different handhelds
 
-## MinUI on Miyoo Mini Plus
+## Miyoo Mini Plus
+### Playable 
 
 | ROM          	| Name            	| Miyoo Mini +      | 	
 |--------------	|-----------------	|--------------------	|
@@ -19,17 +20,17 @@
 | simpsons.zip 	| The Simpsons | yes                   	|           
 | tmnt2.zip    	| TMNT - Turtles in Time 	| yes                  	|           
 
-## Playable with slowdown
+### Playable with slowdown
 - Mortal Kombat 2
-- 
 
-## Wrong orientation
+
+### Wrong orientation
 - Frogger
 - Galaga
 - Super Contra
--  
+  
 
-## Crashing
+### Crashing
 - Altered Beast
 - Alien Storm
 - Aliens vs. Predator
